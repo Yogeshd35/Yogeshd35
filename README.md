@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yogeshd35
+- 👋 Hi, I’m Yogesh !!!
 - 👀 I’m interested in exploring the technological revolutions and learn whatever possible.
 - 🌱 I’m currently learning Artificial Intelligence and Deep Learning.
 - 💞️ I’m looking to collaborate on projects which are on Deep Learning using Keras API
